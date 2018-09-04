@@ -1,3 +1,5 @@
+[简体中文](https://github.com/lzl471954654/FastFormat/blob/master/README_CN.md) | [English](https://github.com/lzl471954654/FastFormat/blob/master/README.md)
+
 # FastFormat
 
 FastFormat 是一个用来替代 **String.format()** 的函数，兼容库函数的用法，并且速度比库函数更快、比库函数占用更少的内存。
