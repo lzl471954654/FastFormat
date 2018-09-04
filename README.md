@@ -1,3 +1,5 @@
+[简体中文](https://github.com/lzl471954654/FastFormat/blob/master/README_CN.md)
+
 # FastFormat
 
 FastFormat is a function to replace **String.format()** , FastFormat compatible the libaray function usage, but use less memory, and faster than libaray function.
