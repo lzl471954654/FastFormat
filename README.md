@@ -1,4 +1,4 @@
-[简体中文](https://github.com/lzl471954654/FastFormat/blob/master/README_CN.md)
+[简体中文](https://github.com/lzl471954654/FastFormat/blob/master/README_CN.md) | [English](https://github.com/lzl471954654/FastFormat/blob/master/README.md)
 
 # FastFormat
 
